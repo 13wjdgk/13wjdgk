@@ -1,5 +1,5 @@
 ### GA EUN KIM 👩🏻‍💻
-Hi there ! Thank you for visited my Github
+Hi there ! Thank you for visiting my Github
 - 💻 I'm Backend Developer
 - 😄 I will have a good influence on the team
 - 🌱 I respect and support each other and lead a culture that grows together.
