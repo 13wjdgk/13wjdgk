@@ -7,7 +7,7 @@ Hi there ! Thank you for visiting my Github
 
 
 <a href = "https://gani-dev.tistory.com/"><img src="https://img.shields.io/badge/Tistory-DD344C?style=for-the-badge&logo=Tistory&logoColor=white"></a>
-<a href = "13wjdgk@naver.com"><img src="https://img.shields.io/badge/Mail 13wjdgk@naver.com -EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+<a href = "matilto:13wjdgk@naver.com"><img src="https://img.shields.io/badge/Mail 13wjdgk@naver.com -EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 ---
 
 ### Experience
