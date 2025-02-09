@@ -21,9 +21,3 @@ Hi there ! Thank you for visiting my Github
 ### Algorithm
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=13wjdgk)](https://solved.ac/13wjdgk/)
-
-### Latest Blog Posts
-- [연속 요청으로 인한 데드락 문제 해결하기](https://gani-dev.tistory.com/139)
-- [서브쿼리를 이용한 조인 쿼리 개선하기(1) - 현재 상황 분석](https://gani-dev.tistory.com/140)
-- [서브쿼리를 이용한 조인 쿼리 개선하기(2) -쿼리 개선기](https://gani-dev.tistory.com/141)
-- [서브쿼리를 이용한 조인 쿼리 개선하기(3) - JAVA 병목 원인 찾기](https://gani-dev.tistory.com/142)
