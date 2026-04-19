@@ -14,9 +14,6 @@ Hi there ! Thank you for visiting my Github
 - SW MAESTRO 14th 💙
 - Major in ComputerScience 💻
 
-### GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=13wjdgk&show_icons=true&theme=codeSTACKr)
 
 ### Algorithm
 
